@@ -1,0 +1,24 @@
+
+.container2 {
+    padding-top: 10px;
+}
+
+.slide-image {
+    
+}
+
+.slide-image img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    right: 90%;
+}
+
+p {
+  text-align: center;
+  padding-top: 12px; 
+  color: #dbb242;
+}
+ 
+ 
